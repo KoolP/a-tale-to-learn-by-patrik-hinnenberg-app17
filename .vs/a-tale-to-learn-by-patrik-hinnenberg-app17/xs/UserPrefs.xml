@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{BFA0EFC1-CDDA-4B0A-8901-38FF18BCBE86}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="9_end.txt">
+    <Files>
+      <File FileName="1_tale_begins.txt" Line="1" Column="37" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="2_villain.txt" Line="1" Column="68" />
+      <File FileName="3_hero_enters_tale.txt" Line="1" Column="64" />
+      <File FileName="4_epic_quest.txt" Line="3" Column="63" />
+      <File FileName="5_journey_through_land.txt" Line="3" Column="88" />
+      <File FileName="6_great_obstacle.txt" Line="3" Column="82" />
+      <File FileName="7_hero_wins.txt" Line="8" Column="88" />
+      <File FileName="8_moral_of_the_tale.txt" Line="1" Column="101" />
+      <File FileName="9_end.txt" Line="1" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.a-tale-to-learn-by-patrik-hinnenberg-app17 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
