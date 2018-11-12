@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿In the southern part of the forrest lived a baby wizard called lil'DragonSlayer. The baby had a rubber duck that could speak words of visdom.
-=======
-﻿In the southern part of the forrest lived a baby wizard called lil'DragonSlayer.
-Lil'Dragonslayer hade a magic robe made from dragonskin.
->>>>>>> c17939f016361dcf5645a765f1b567e577c25f9f
+In the southern part of the forrest lived a baby wizard called lil'DragonSlayer. The baby had a rubber duck that could speak words of visdom.
+Lil'Dragonslayer hade a magic robe made from dragonskin. The magic robe gave him the ability to fly. Many citizens where sceptical about this little wizard and that made some troubble as the farmers did not want to sell vegetables to his parents.
+

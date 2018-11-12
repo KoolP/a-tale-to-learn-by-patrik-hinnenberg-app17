@@ -1,6 +1,3 @@
-<<<<<<< HEAD
 ﻿In the forrest there lived an amazingly ugly little finnish man called Rupert.
-=======
-﻿In the forrest there lived an ugly little finnish man called Rupert.
 Rupert was a mad professor with interests in gene manipulation.
->>>>>>> c17939f016361dcf5645a765f1b567e577c25f9f
+He was an outlaw and something bothered him with the society.
